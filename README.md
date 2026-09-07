@@ -1,5 +1,8 @@
 # Flu-Surge Stockout Forecast
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22632723.svg)](https://doi.org/10.5281/zenodo.22632723)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fofficialpm%2Fflu-surge-stockout-forecast%2F&countColor=%23007ec6&style=flat)](https://github.com/officialpm/flu-surge-stockout-forecast)
+
 An end-to-end, fully reproducible pipeline that fuses CDC influenza
 surveillance with retail sales to forecast demand, scores the forecast into
 a stockout-risk tier, and generates a plain-language LLM advisory whose
