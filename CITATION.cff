@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or its faithfulness-audit methodology,
+  please cite it using the metadata below.
+title: >-
+  Fusing Epidemiological Surveillance with Retail Demand Forecasting:
+  A Faithfulness-Audited GenAI Advisory Layer for Stockout Risk
+type: software
+authors:
+  - family-names: Maniar
+    given-names: Parth
+    email: officialparthmaniar@gmail.com
+    affiliation: Independent Researcher, San Jose, California, USA
+    orcid: https://orcid.org/0009-0009-4359-4527
+  - family-names: Maru
+    given-names: Saj
+    email: sajmaru360@gmail.com
+    affiliation: Independent Researcher, Bentonville, Arkansas, USA
+    orcid: https://orcid.org/0009-0009-2520-7220
+repository-code: https://github.com/officialpm/flu-surge-stockout-forecast
+license: MIT
+date-released: 2026-09-06
+keywords:
+  - demand forecasting
+  - epidemiological surveillance
+  - stockout risk
+  - LLM faithfulness
+  - explainable AI
+  - SHAP
+  - retail analytics

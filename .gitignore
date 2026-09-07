@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+
+# Project data and outputs (see README for how to regenerate)
+data/raw/*.csv
+results/
+
+# Paper (built separately; see paper/ for source, kept out of the code repo)
+paper/
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code / superpowers scratch state
+.claude/
+.superpowers/

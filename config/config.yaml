@@ -1,0 +1,18 @@
+data:
+  ili_csv: "data/raw/ili_ilinet.csv"
+  m5_sales_csv: "data/raw/sales_train_validation.csv"
+  m5_calendar_csv: "data/raw/calendar.csv"
+  categories: ["HOUSEHOLD"]
+
+forecasting:
+  lag_weeks: [1, 2, 3, 4]
+  test_weeks: 8
+  top_k_shap: 3
+  random_state: 42
+
+risk:
+  weeks_of_cover: 4
+  reorder_lead_time_weeks: 2
+
+llm:
+  model: "claude-sonnet-5"

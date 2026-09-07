@@ -1,0 +1,15 @@
+pandas>=2.2
+numpy>=1.26
+lightgbm>=4.3
+shap>=0.45
+scipy>=1.12
+pyyaml>=6.0
+matplotlib>=3.8
+anthropic>=0.40
+python-dotenv>=1.0
+requests>=2.31
+pytest>=8.0
+
+# Optional: only needed for scripts/download_m5_data.py (Kaggle API download).
+# Skip this if you download the M5 CSVs manually from the Kaggle website.
+kaggle>=1.6
